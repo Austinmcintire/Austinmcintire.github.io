@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+I am Currently a Sophomore at Catawba College. I am studying Sport Management while enrolled at Catawba College.
 You can use the [editor on GitHub](https://github.com/Austinmcintire/Austinmcintire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
