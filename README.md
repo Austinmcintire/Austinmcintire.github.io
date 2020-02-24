@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-I am Currently a Sophomore at Catawba College. I am studying Sport Management while enrolled at Catawba College.
+
 You can use the [editor on GitHub](https://github.com/Austinmcintire/Austinmcintire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,6 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+1#Things About Me
+2#I am Currently a Sophomore at Catawba College. I am studying Sport Management while enrolled at Catawba College. I Graduated from East Davidson Highschool, and was born and raised in Thomasville North Carolina.
+
 
 # Header 1
 ## Header 2
